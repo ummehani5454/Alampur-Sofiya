@@ -12,19 +12,6 @@ This is my personal portfolio website, showcasing my skills, projects, and ways 
 - Includes sections for **Home, About, Projects, and Contact**.
 - Clean layout with interactive buttons and smooth scrolling.
 
-## Features
-
-- **Home Section**: Introduces me with my picture and a brief intro.
-- **About Section**: Details my background, skills, and links to LinkedIn and GitHub.
-- **Projects Section**: Highlights my projects with links to their GitHub repositories.
-- **Contact Section**: Allows visitors to send a message directly via the form.
-- **Responsive Sidebar Menu**: Works on mobile devices for easy navigation.
-- **Smooth Scroll & Active Link Highlight**: For better user experience.
-
-## Skills Showcases
-- **Languages**: HTML, CSS, JavaScript, Java
-- **Tools**: Git & GitHub, Terminal, Hoppscotch, Vercel
-- **Framework**: Bootstrap
 ## How to View
 1. Clone or download this repository.
 2. Open `index.html` in any modern browser.
